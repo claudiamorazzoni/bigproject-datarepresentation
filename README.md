@@ -72,13 +72,17 @@ To create the database (crud), the tables (students and users) and to insert dat
 
 **Step 6.** 
 
-Run the Flask server named _init_.py
+Set the personal password of your local database and user, if necessary in the init.py and dbconfig.py file
 
 **Step 7.** 
 
-Type :link: <http://127.0.0.1:5000/> into your browser.
+Run the Flask server named _init_.py
 
 **Step 8.** 
+
+Type :link: <http://127.0.0.1:5000/> into your browser.
+
+**Step 9.** 
 
 Perform CRUD (Create, Read, Update and Delete) students data into the web application
 
